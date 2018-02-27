@@ -9,13 +9,20 @@ But there's a growing awarenes that news can be 'faked' or distorted, we don't k
 The basic idea behind ScrutiNews is to engourage those people who take great interest in news events, to become paid 'Scrutineers', applying analysis and fact checking to news stories using a thorough methodology, so that readers know how much they can trust a story, as well as understanding the range of alternative viewpoints.
 
 ## How can I find out more?
-* Read the detailed proposal at: https://github.com/ScrutiNews/proposal/README.md
+* Read the detailed proposal at: https://github.com/ScrutiNews/proposal/blob/master/README.md
 
 ## What is the proposed development and launch process for ScrutiNews?
-
+* Build a Project Rewards Tool
+* Cryptocurrency News Aggregator as a prototype
+* Launch an ICO
+* Launch the full product covering mass media topic
 
 ## How can I get involved?
-Text
+* Use Slack to support the discussion on this project at... 
+* As a developer you could follow...
+* As someone who wants to take a side interest and see updates as the project grows, join the Facebook page at...
+* To support the project with a cryptocurrency donation use Bitcoin, Ethereum...
+
 
 
 ## Thoughts, unknowns, and questions about this project:
