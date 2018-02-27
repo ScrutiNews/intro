@@ -19,7 +19,8 @@ Text
 
 
 ## Thoughts, unknowns, and questions about this project:
+* Text...
 
-
-> "Thanks for taking interest in this little project. Tackling the lies, propaganda, distortions and prejudice in everyday news is a noble cause, and one that I hope will motivate people to get involved. I don't know exactly where support will come from and how big it will be, but I know it will be needed to make this crazy idea a reality. Thanks for taking a look and I hope the sentiments expressed here will encourage your participation..." -  John Durrant, February 2018. - 
+## Thank You!
+*"Thanks for taking interest in this little project. Tackling the lies, propaganda, distortions and prejudice in everyday news is a noble cause, and one that I hope will motivate people to get involved. I don't know exactly where support will come from and how big it will be, but I know it will be needed to make this crazy idea a reality. Thanks for taking a look and I hope the sentiments expressed here will encourage your participation..."* -  John Durrant, February 2018. - 
 
