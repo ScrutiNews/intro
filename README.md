@@ -13,9 +13,10 @@ The basic idea behind ScrutiNews is to engourage those people who take great int
 
 ## What is the proposed development and launch process for ScrutiNews?
 * Build a Project Rewards Tool
-* Cryptocurrency News Aggregator as a prototype
+* Build a cryptocurrency news aggregator as a prototype
 * Launch an ICO
 * Launch the full product covering mass media topic
+* Curated news broadcasts via YouTube/Podcasts
 
 ## How can I get involved?
 * Use Slack to support the discussion on this project at... 
