@@ -29,7 +29,7 @@ The purpose of the ICO, as described in [Section 8.1](https://github.com/ScrutiN
 Moving from the prototype to a product with mainstream appeal will require continual refinement and product maturation. This will require continual product tweaking, community building and plenty of patience. It will also require testing and fine tuning of the business model to ensure that the mainstream product is commercially viable. 
 
 ### 5. Curated news broadcasts via YouTube/Podcasts
-People want their daily news delivered in accessible chunks, easy to navigate, filtered and scrutinised to assess truthfulness and reliability. This needs to be well presented, engaging and enlightening. The aim will be for people get their news from our curated video/podcasts rather than through traditional mainstream news channels.   
+People want their daily news delivered in accessible chunks, easy to navigate, filtered and scrutinised to assess truthfulness and reliability. This needs to be well presented, engaging and enlightening. The aim will be for people get their news from our curated video/podcasts rather than through traditional mainstream news channels. Put simply, the goal is to 'Tell the Truth'... 
 
 ## How can I get involved?
 * Use Slack to support the discussion on this project at... 
