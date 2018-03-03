@@ -11,13 +11,13 @@ But there's a growing awarenes that news can be 'faked' or distorted, we don't k
 The basic idea behind ScrutiNews is to engourage those people who take great interest in news events, to become paid 'Scrutineers', applying analysis and fact checking to news stories using a thorough methodology, so that readers know how much they can trust a story, as well as understanding the range of alternative viewpoints.
 
 ## How can I find out more?
-* Read the detailed proposal at: https://github.com/ScrutiNews/proposal/blob/master/README.md
+* Read the [Detailed Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md)
 * Developers or just people interested in the idea can join the slack channel at (Spamers and idiots will be thrown out)
 
 ## What is the proposed development and launch process for ScrutiNews?
 
 ### 1. Build a Project Rewards Tool
-A mini open source project using an token on the Ethereum blockchain to track people's input into the main project. This will be a chance for developers to work and play with Ethereum and get used to working with Smart Contracts. The idea is that as people contribute to the main project, they will issue invoices for their work and be paid in tokens, creating a secure, transparent and immutable record of inputs on the Ethereum blockchain. The tokens could be traded for future 'shares' in the main project. See https://github.com/ScrutiNews/proposal/blob/master/appendix-I-project-rewards-tool.md 
+A mini open source project using an token on the Ethereum blockchain to track people's input into the main project. This will be a chance for developers to work and play with Ethereum and get used to working with Smart Contracts. The idea is that as people contribute to the main project, they will issue invoices for their work and be paid in tokens, creating a secure, transparent and immutable record of inputs on the Ethereum blockchain. The tokens could be traded for future 'shares' in the main project. See [Project Rewards Tool](https://github.com/ScrutiNews/proposal/blob/master/appendix-I-project-rewards-tool.md) 
 
 ### 2. Build a cryptocurrency news aggregator as a prototype
 Build the main platform, as defined in the [proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md). Contributions will be recorded using the Project Rewards Tool mentioned in (1). Further detail is in [section 3.3](https://github.com/ScrutiNews/proposal/blob/master/project-description.md#33-cryptoassets---initial-use-case-for-the-scrutinews-platform) of the proposal.
