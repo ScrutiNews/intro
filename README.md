@@ -30,6 +30,7 @@ Build the main platform, as defined in the [Proposal](https://github.com/ScrutiN
 This whole project rests on developing tools and knowledge for objectively scrutinising content. A suite of tools and learning resources will be needed to support this activity. These resources will be needed to create the kind of scrutiny described in [Section 4.3](https://github.com/ScrutiNews/proposal/blob/master/how-platform-and-features.md#43-scrutineers) of the propsal. The methodology will help identify [abuses of argumentation strategy](https://en.wikipedia.org/wiki/List_of_fallacies) and recognising where [cognitive bias](e.g. https://en.wikipedia.org/wiki/List_of_cognitive_biases) may be be a factor. 
 
 [![Donald Trump: 15 Logical Fallacies in 3 minutes](https://img.youtube.com/vi/w2CxDu7jiyE/0.jpg)](httsp://www.youtube.com/watch?v=w2CxDu7jiyE "Donald Trump: 15 Logical Fallacies in 3 minutes")
+
 The above video, showing Donald Trump using 15 logical fallacies in 3 minutes of speech, is a good intro to the desired analysis on ScrutiNews.
 
 ### 4. Launch an ICO (Initial Coin Offering)
@@ -42,7 +43,7 @@ Moving from the prototype to a product with mainstream appeal will require conti
 People want their daily news delivered in accessible chunks, easy to navigate, filtered and scrutinised to assess truthfulness and reliability. This needs to be well presented, engaging and enlightening. The aim will be for people get their news from our curated video/podcasts rather than through traditional mainstream news channels. Put simply, the goal is to 'Tell the Truth'... 
 
 ## Thoughts, unknowns, and questions about this project:
-* Text...
+* This is clearly an ambitious project with many difficulties to overcome, let's take step by step approach. This section will be used as a kind of FAQ area as people raise questions or concerns about the project.
 
 ## Thank You!
 *"Thanks for taking interest in this little project. Tackling the lies, propaganda, distortions and prejudice in everyday news is a noble cause, and one that I hope will motivate people to get involved. I don't know exactly where support will come from and how big it will be, but I know it will be needed to make this crazy idea a reality. Thanks for taking a look and I hope the sentiments expressed here will encourage your participation..."* -  John Durrant, February 2018. - 
