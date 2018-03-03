@@ -13,7 +13,7 @@ But there's a growing awareness that news can be 'faked' or distorted, we don't 
 The basic idea behind ScrutiNews is to encourage those people who take great interest in news events, to become paid 'Scrutineers', applying analysis and fact checking to news stories using a thorough methodology, so that readers know how much they can trust a story, as well as understanding the range of alternative viewpoints.
 
 ## How can I find out more or get involved?
-<a href="https://github.com/ScrutiNews/proposal/blob/master/ScrutiNewsProposal-v1.0.1.pdf">[![patreon.png](pdf_icon.png)](https://github.com/ScrutiNews/proposal/blob/master/ScrutiNewsProposal-v1.0.1.pdf)</a>
+<a href="https://github.com/ScrutiNews/proposal/blob/master/ScrutiNewsProposal-v1.0.1.pdf">[![pdf](pdf_icon.png)](https://github.com/ScrutiNews/proposal/blob/master/ScrutiNewsProposal-v1.0.1.pdf)</a>
 * Read the [High-level Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md)... 
 * Developers, supporters or anyone interested in the idea can join the [Slack Workgroup](https://join.slack.com/t/scrutinews/shared_invite/enQtMzI0MTk4MjY0MjEzLTVlNTBkYTg0ZjdlYTcxZTBkY2I0ZmNlNGU5MzE4ZjhkODE1ZDgxMTViYzUxMWU3MTk4MDBkNTQ2YjVjYTRlNTY) (Spammers and idiots will be thrown out)
 * As a developer you could follow repos in the [Scrutinews Github Project](https://github.com/ScrutiNews) or ask `@John Durrant` via Slack to be included on the team.
@@ -30,6 +30,8 @@ Build the main platform, as defined in the [Proposal](https://github.com/ScrutiN
 
 ### 3. Continually evolve the Scrutiny Methodology
 This whole project rests on developing tools and knowledge for objectively scrutinising content. A suite of tools and learning resources will be needed to support this activity. These resources will be needed to create the kind of scrutiny described in [Section 4.3](https://github.com/ScrutiNews/proposal/blob/master/how-platform-and-features.md#43-scrutineers) of the proposal. The methodology will help identify [abuses of argumentation strategy](https://en.wikipedia.org/wiki/List_of_fallacies) and recognising where [cognitive bias](https://en.wikipedia.org/wiki/List_of_cognitive_biases) may be be a factor. 
+
+<a href="httsp://www.youtube.com/watch?v=w2CxDu7jiyE">[![Donald Trump](DonaldTrumpLogicalFallacies.jpg)](httsp://www.youtube.com/watch?v=w2CxDu7jiyE)</a>
 
 [<img src="DonaldTrumpLogicalFallacies.jpg">](httsp://www.youtube.com/watch?v=w2CxDu7jiyE "Donald Trump: 15 Logical fallacies in 3 minutes")
 
