@@ -8,6 +8,8 @@ This is a proposed project to change the way we read and discuss the daily news 
 
 But there's a growing awarenes that news can be 'faked' or distorted, we don't know what news to trust, and ensuing discussions and debate soon descend into slurs and abuse.
 
+<img src="drawio_scrutinews.jpg">
+
 The basic idea behind ScrutiNews is to engourage those people who take great interest in news events, to become paid 'Scrutineers', applying analysis and fact checking to news stories using a thorough methodology, so that readers know how much they can trust a story, as well as understanding the range of alternative viewpoints.
 
 ## How can I find out more or get involved?
