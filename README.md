@@ -13,7 +13,7 @@ But there's a growing awareness that news can be 'faked' or distorted, we don't 
 The basic idea behind ScrutiNews is to encourage those people who take great interest in news events, to become paid 'Scrutineers', applying analysis and fact checking to news stories using a thorough methodology, so that readers know how much they can trust a story, as well as understanding the range of alternative viewpoints.
 
 ## How can I find out more or get involved?
-* Read the [High-level Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md), [<img src="pdf_icon.png">](https://github.com/ScrutiNews/proposal/blob/master/ScrutiNewsProposal-v1.0.1.pdf)<br/><br/>
+* Read the [High-level Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md)... [<img src="pdf_icon.png">](https://github.com/ScrutiNews/proposal/blob/master/ScrutiNewsProposal-v1.0.1.pdf)<br/><br/>
 * Developers, supporters or anyone interested in the idea can join the [Slack Workgroup](https://join.slack.com/t/scrutinews/shared_invite/enQtMzI0MTk4MjY0MjEzLTVlNTBkYTg0ZjdlYTcxZTBkY2I0ZmNlNGU5MzE4ZjhkODE1ZDgxMTViYzUxMWU3MTk4MDBkNTQ2YjVjYTRlNTY) (Spammers and idiots will be thrown out)
 * As a developer you could follow repos in the [Scrutinews Github Project](https://github.com/ScrutiNews) or ask `@John Durrant` via Slack to be included on the team.
 * Anyone wanting to actively get stuck into the project, helping to define and implement the platform, can ask `@John Durrant` via the Slack for an invite to the [ScrutiNews Trello Board](https://trello.com/scrutinews)
@@ -28,9 +28,9 @@ A mini open source project using an token on the [Ethereum Blockchain Platform](
 Build the main platform, as defined in the [Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md). Contributions will be recorded using the Project Rewards Tool mentioned in (1). Further detail is in [Section 3.3](https://github.com/ScrutiNews/proposal/blob/master/project-description.md#33-cryptoassets---initial-use-case-for-the-scrutinews-platform) of the proposal. The challenge here will be co-ordinating a collaborative development team, project definition and management etc. 
 
 ### 3. Continually evolve the Scrutiny Methodology
-This whole project rests on developing tools and knowledge for objectively scrutinising content. A suite of tools and learning resources will be needed to support this activity. These resources will be needed to create the kind of scrutiny described in [Section 4.3](https://github.com/ScrutiNews/proposal/blob/master/how-platform-and-features.md#43-scrutineers) of the proposal. The methodology will help identify [abuses of argumentation strategy](https://en.wikipedia.org/wiki/List_of_fallacies) and recognising where [cognitive bias](e.g. https://en.wikipedia.org/wiki/List_of_cognitive_biases) may be be a factor. 
+This whole project rests on developing tools and knowledge for objectively scrutinising content. A suite of tools and learning resources will be needed to support this activity. These resources will be needed to create the kind of scrutiny described in [Section 4.3](https://github.com/ScrutiNews/proposal/blob/master/how-platform-and-features.md#43-scrutineers) of the proposal. The methodology will help identify [abuses of argumentation strategy](https://en.wikipedia.org/wiki/List_of_fallacies) and recognising where [cognitive bias](https://en.wikipedia.org/wiki/List_of_cognitive_biases) may be be a factor. 
 
-[![Donald Trump: 15 Logical Fallacies in 3 minutes](http://img.youtube.com/vi/w2CxDu7jiyE/0.jpg)](httsp://www.youtube.com/watch?v=w2CxDu7jiyE "Donald Trump: 15 Logical Fallacies in 3 minutes")
+[![Donald Trump: 15 Logical Fallacies in 3 minutes](http://img.youtube.com/vi/w2CxDu7jiyE/0.jpg)](httsp://www.youtube.com/watch?v=w2CxDu7jiyE "Donald Trump: 15 Logical fallacies in 3 minutes")
 
 The above video, showing Donald Trump using 15 logical fallacies in 3 minutes of speech, is a good intro to the desired analysis on ScrutiNews.
 
