@@ -14,7 +14,7 @@ The basic idea behind ScrutiNews is to encourage those people who take great int
 
 ## How can I find out more or get involved?
 <a href="https://github.com/ScrutiNews/proposal/blob/master/ScrutiNewsProposal-v1.0.1.pdf">[![pdf](pdf_icon.png)](https://github.com/ScrutiNews/proposal/blob/master/ScrutiNewsProposal-v1.0.1.pdf)</a>
-* Read the [High-level Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md)... 
+* **Firstly, Read the [High-level Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md)**
 * Developers, supporters or anyone interested in the idea can join the [Slack Workgroup](https://join.slack.com/t/scrutinews/shared_invite/enQtMzI0MTk4MjY0MjEzLTVlNTBkYTg0ZjdlYTcxZTBkY2I0ZmNlNGU5MzE4ZjhkODE1ZDgxMTViYzUxMWU3MTk4MDBkNTQ2YjVjYTRlNTY) (Spammers and idiots will be thrown out)
 * As a developer you could follow repos in the [Scrutinews Github Project](https://github.com/ScrutiNews) or ask `@John Durrant` via Slack to be included on the team.
 * Anyone wanting to actively get stuck into the project, helping to define and implement the platform, can ask `@John Durrant` via the Slack for an invite to the [ScrutiNews Trello Board](https://trello.com/scrutinews)
