@@ -2,7 +2,7 @@
 Introduction to ScrutiNews on Github
 
 ## What is ScrutiNews?
-ScruitiNews is crowd scrutiny, giving people tools and methodologies to scrutinise online content, fuelled by a cryptocurrency micro-payments token. Applying crowd scruitiny to 'news' is the major application.
+ScruitiNews is crowd scrutiny, giving people tools and methodologies to scrutinise online content, fueled by a cryptocurrency micro-payments token. Applying crowd scruitiny to 'news' is the major application.
 
 This is a proposed project to change the way we read and discuss the daily news events.  Many of us will browse our favourite news websites every day, encouter news posts from friends on social media, or tune into the daily news on TV and radio. We like keeping abreast of current events. Many of us also comment on news items online, or discuss events in the news at work or when socialising.
 
