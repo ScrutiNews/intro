@@ -30,6 +30,9 @@ Build the main platform, as defined in the [Proposal](https://github.com/ScrutiN
 This whole project rests on developing tools and knowledge for objectively scrutinising content. A suite of tools and learning resources will be needed to support this activity. These resources will be needed to create the kind of scrutiny described in [Section 4.3](https://github.com/ScrutiNews/proposal/blob/master/how-platform-and-features.md#43-scrutineers) of the propsal. The methodology will help identify [abuses of argumentation strategy](https://en.wikipedia.org/wiki/List_of_fallacies) and recognising where [cognitive bias](e.g. https://en.wikipedia.org/wiki/List_of_cognitive_biases) may be be a factor. 
 
 This video, showing Donald Trump using 15 logical fallacies in 3 minutes of speech, is a good intro to the desired analysis on ScrutiNews:
+
+[![Donald Trump: 15 Logical Fallacies in 3 minutes](http://img.youtube.com/viw2CxDu7jiy/0.jpg)](http://www.youtube.com/watch?v=w2CxDu7jiyE "Donald Trump: 15 Logical Fallacies in 3 minutes")
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w2CxDu7jiyE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 4. Launch an ICO (Initial Coin Offering)
