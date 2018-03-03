@@ -29,8 +29,8 @@ Build the main platform, as defined in the [Proposal](https://github.com/ScrutiN
 ### 3. Continually evolve the Scrutiny Methodology
 This whole project rests on developing tools and knowledge for objectively scrutinising content. A suite of tools and learning resources will be needed to support this activity. These resources will be needed to create the kind of scrutiny described in [Section 4.3](https://github.com/ScrutiNews/proposal/blob/master/how-platform-and-features.md#43-scrutineers) of the propsal. The methodology will help identify [abuses of argumentation strategy](https://en.wikipedia.org/wiki/List_of_fallacies) and recognising where [cognitive bias](e.g. https://en.wikipedia.org/wiki/List_of_cognitive_biases) may be be a factor. 
 
-This video, showing Donald Trump using 15 logical fallacies in 3 minutes of speech, is a good intro to the desired analysis on ScrutiNews:
 [![Donald Trump: 15 Logical Fallacies in 3 minutes](https://img.youtube.com/vi/w2CxDu7jiyE/0.jpg)](httsp://www.youtube.com/watch?v=w2CxDu7jiyE "Donald Trump: 15 Logical Fallacies in 3 minutes")
+The above video, showing Donald Trump using 15 logical fallacies in 3 minutes of speech, is a good intro to the desired analysis on ScrutiNews.
 
 ### 4. Launch an ICO (Initial Coin Offering)
 The purpose of the ICO, as described in [Section 8.1](https://github.com/ScrutiNews/proposal/blob/master/business-considerations.md#81-funding-and-proposed-ico) of the main proposal, will be to create the cryptocurrency micro-payments token as the currency used to generate revenews and reward 'Scrutineers', the people using the platform to filter and scrutinise news feeds. The ICO will also provide for an allocation of funds to reward those who have been contributing and building the platform, according to their share of tokens accumulated with the Project Rewards Tool (1) above.
