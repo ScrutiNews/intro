@@ -11,7 +11,7 @@ But there's a growing awarenes that news can be 'faked' or distorted, we don't k
 The basic idea behind ScrutiNews is to engourage those people who take great interest in news events, to become paid 'Scrutineers', applying analysis and fact checking to news stories using a thorough methodology, so that readers know how much they can trust a story, as well as understanding the range of alternative viewpoints.
 
 ## How can I find out more?
-* Read the [Detailed Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md)
+* Read the [High-level Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md)
 * Developers or just people interested in the idea can join the slack channel at (Spamers and idiots will be thrown out)
 
 ## What is the proposed development and launch process for ScrutiNews?
