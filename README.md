@@ -31,7 +31,7 @@ This whole project rests on developing tools and knowledge for objectively scrut
 
 This video, showing Donald Trump using 15 logical fallacies in 3 minutes of speech, is a good intro to the desired analysis on ScrutiNews:
 
-[![Donald Trump: 15 Logical Fallacies in 3 minutes](http://img.youtube.com/viw2CxDu7jiy/0.jpg)](http://www.youtube.com/watch?v=w2CxDu7jiyE "Donald Trump: 15 Logical Fallacies in 3 minutes")
+[![Donald Trump: 15 Logical Fallacies in 3 minutes](http://img.youtube.com/vi/w2CxDu7jiy/0.jpg)](http://www.youtube.com/watch?v=w2CxDu7jiyE "Donald Trump: 15 Logical Fallacies in 3 minutes")
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w2CxDu7jiyE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
