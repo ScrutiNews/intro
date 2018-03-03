@@ -10,9 +10,12 @@ But there's a growing awarenes that news can be 'faked' or distorted, we don't k
 
 The basic idea behind ScrutiNews is to engourage those people who take great interest in news events, to become paid 'Scrutineers', applying analysis and fact checking to news stories using a thorough methodology, so that readers know how much they can trust a story, as well as understanding the range of alternative viewpoints.
 
-## How can I find out more?
+## How can I find out more or get involved?
 * Read the [High-level Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md)
-* Developers or just people interested in the idea can join the slack channel at (Spamers and idiots will be thrown out)
+* Developers, supporters or anyone interested in the idea can join the [Slack Workgroup](https://join.slack.com/t/scrutinews/shared_invite/enQtMzI0MTk4MjY0MjEzLTVlNTBkYTg0ZjdlYTcxZTBkY2I0ZmNlNGU5MzE4ZjhkODE1ZDgxMTViYzUxMWU3MTk4MDBkNTQ2YjVjYTRlNTY) (Spammers and idiots will be thrown out)
+* As a developer you could follow repos in the [Scrutinews Github Project](https://github.com/ScrutiNews) or ask `@John Durrant` via Slack to be included on the team.
+* As someone who wants to take a side interest and see updates as the project grows, join the Facebook page at...
+* To support the project with a cryptocurrency donation use Bitcoin, Ethereum...
 
 ## What is the proposed development and launch process for ScrutiNews?
 
@@ -30,14 +33,6 @@ Moving from the prototype to a product with mainstream appeal will require conti
 
 ### 5. Curated news broadcasts via YouTube/Podcasts
 People want their daily news delivered in accessible chunks, easy to navigate, filtered and scrutinised to assess truthfulness and reliability. This needs to be well presented, engaging and enlightening. The aim will be for people get their news from our curated video/podcasts rather than through traditional mainstream news channels. Put simply, the goal is to 'Tell the Truth'... 
-
-## How can I get involved?
-* Use Slack to support the discussion on this project at... 
-* As a developer you could follow...
-* As someone who wants to take a side interest and see updates as the project grows, join the Facebook page at...
-* To support the project with a cryptocurrency donation use Bitcoin, Ethereum...
-
-
 
 ## Thoughts, unknowns, and questions about this project:
 * Text...
