@@ -14,7 +14,7 @@ The basic idea behind ScrutiNews is to engourage those people who take great int
 * Read the [High-level Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md)
 * Developers, supporters or anyone interested in the idea can join the [Slack Workgroup](https://join.slack.com/t/scrutinews/shared_invite/enQtMzI0MTk4MjY0MjEzLTVlNTBkYTg0ZjdlYTcxZTBkY2I0ZmNlNGU5MzE4ZjhkODE1ZDgxMTViYzUxMWU3MTk4MDBkNTQ2YjVjYTRlNTY) (Spammers and idiots will be thrown out)
 * As a developer you could follow repos in the [Scrutinews Github Project](https://github.com/ScrutiNews) or ask `@John Durrant` via Slack to be included on the team.
-* As someone who wants to take a side interest and see updates as the project grows, join the Facebook page at...
+* As someone who wants to take a side interest and see updates as the project grows, join the [ScrutiNews Facebook Page](https://www.facebook.com/scrutinews)
 * To support the project with a cryptocurrency donation use Bitcoin, Ethereum...
 
 ## What is the proposed development and launch process for ScrutiNews?
