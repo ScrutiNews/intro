@@ -31,8 +31,6 @@ Build the main platform, as defined in the [Proposal](https://github.com/ScrutiN
 ### 3. Continually evolve the Scrutiny Methodology
 This whole project rests on developing tools and knowledge for objectively scrutinising content. A suite of tools and learning resources will be needed to support this activity. These resources will be needed to create the kind of scrutiny described in [Section 4.3](https://github.com/ScrutiNews/proposal/blob/master/how-platform-and-features.md#43-scrutineers) of the proposal. The methodology will help identify [abuses of argumentation strategy](https://en.wikipedia.org/wiki/List_of_fallacies) and recognising where [cognitive bias](https://en.wikipedia.org/wiki/List_of_cognitive_biases) may be be a factor. 
 
-<a href="https://www.youtube.com/watch?v=w2CxDu7jiyE">[![Donald Trump](DonaldTrumpLogicalFallacies.jpg)](https://www.youtube.com/watch?v=w2CxDu7jiyE)</a>
-
 [<img src="DonaldTrumpLogicalFallacies.jpg">](https://www.youtube.com/watch?v=w2CxDu7jiyE "Donald Trump: 15 Logical fallacies in 3 minutes")
 
 The above video, showing Donald Trump using 15 logical fallacies in 3 minutes of speech, is a good intro to the desired analysis on ScrutiNews.
