@@ -16,8 +16,8 @@ The basic idea behind ScrutiNews is to encourage those people who take great int
 <a href="https://github.com/ScrutiNews/proposal/blob/master/ScrutiNewsProposal-v1.0.1.pdf">[![pdf](pdf_icon.png)](https://github.com/ScrutiNews/proposal/blob/master/ScrutiNewsProposal-v1.0.1.pdf)</a>
 * **Firstly, Read the [High-level Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md) !!**
 * Developers, supporters or anyone interested in the idea can join the [Slack Workgroup](https://join.slack.com/t/scrutinews/shared_invite/enQtMzI0MTk4MjY0MjEzLTVlNTBkYTg0ZjdlYTcxZTBkY2I0ZmNlNGU5MzE4ZjhkODE1ZDgxMTViYzUxMWU3MTk4MDBkNTQ2YjVjYTRlNTY) (Spammers and idiots will be thrown out)
-* As a developer you could follow repos in the [Scrutinews Github Project](https://github.com/ScrutiNews) or ask `@John Durrant` via Slack to be included on the team.
-* Anyone wanting to actively get stuck into the project, helping to define and implement the platform, can ask `@John Durrant` via the Slack for an invite to the [ScrutiNews Trello Board](https://trello.com/scrutinews)
+* As a developer you could follow repos in the [Scrutinews Github Project](https://github.com/ScrutiNews) or ask `@John Durrant` via [Slack](https://join.slack.com/t/scrutinews/shared_invite/enQtMzI0MTk4MjY0MjEzLTVlNTBkYTg0ZjdlYTcxZTBkY2I0ZmNlNGU5MzE4ZjhkODE1ZDgxMTViYzUxMWU3MTk4MDBkNTQ2YjVjYTRlNTY) to be included on the team.
+* Anyone wanting to actively get stuck into the project, helping to define and implement the platform, can ask `@John Durrant` via the [Slack](https://join.slack.com/t/scrutinews/shared_invite/enQtMzI0MTk4MjY0MjEzLTVlNTBkYTg0ZjdlYTcxZTBkY2I0ZmNlNGU5MzE4ZjhkODE1ZDgxMTViYzUxMWU3MTk4MDBkNTQ2YjVjYTRlNTY) for an invite to the [ScrutiNews Trello Board](https://trello.com/scrutinews)
 * As someone who wants to take a side interest and see updates as the project grows, join the [ScrutiNews Facebook Page](https://www.facebook.com/scrutinews)
 
 ## What is the proposed development and launch process for ScrutiNews?
