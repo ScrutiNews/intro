@@ -17,7 +17,6 @@ The basic idea behind ScrutiNews is to engourage those people who take great int
 * Developers, supporters or anyone interested in the idea can join the [Slack Workgroup](https://join.slack.com/t/scrutinews/shared_invite/enQtMzI0MTk4MjY0MjEzLTVlNTBkYTg0ZjdlYTcxZTBkY2I0ZmNlNGU5MzE4ZjhkODE1ZDgxMTViYzUxMWU3MTk4MDBkNTQ2YjVjYTRlNTY) (Spammers and idiots will be thrown out)
 * As a developer you could follow repos in the [Scrutinews Github Project](https://github.com/ScrutiNews) or ask `@John Durrant` via Slack to be included on the team.
 * As someone who wants to take a side interest and see updates as the project grows, join the [ScrutiNews Facebook Page](https://www.facebook.com/scrutinews)
-* To support the project with a cryptocurrency donation use Bitcoin, Ethereum...
 
 ## What is the proposed development and launch process for ScrutiNews?
 
@@ -27,13 +26,19 @@ A mini open source project using an token on the Ethereum blockchain to track pe
 ### 2. Build a cryptocurrency news aggregator as a prototype
 Build the main platform, as defined in the [Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md). Contributions will be recorded using the Project Rewards Tool mentioned in (1). Further detail is in [Section 3.3](https://github.com/ScrutiNews/proposal/blob/master/project-description.md#33-cryptoassets---initial-use-case-for-the-scrutinews-platform) of the proposal. The challenge here will be co-ordinating a collaborative development team, project definition and management etc. 
 
-### 3. Launch an ICO (Initial Coin Offering)
+### 3. Continually evolve the Scrutiny Methodology
+This whole project rests on developing tools and knowledge for objectively scrutinising content. A suite of tools and learning resources will be needed to support this activity. These resources will be needed to create the kind of scrutiny described in [Section 4.3](https://github.com/ScrutiNews/proposal/blob/master/how-platform-and-features.md#43-scrutineers) of the propsal. The methodology will help identify [abuses of argumentation strategy](https://en.wikipedia.org/wiki/List_of_fallacies) and recognising where [cognitive bias](e.g. https://en.wikipedia.org/wiki/List_of_cognitive_biases) may be be a factor. 
+
+This video, showing Donald Trump using 15 logical fallacies in 3 minutes of speech, is a good intro to the desired analysis on ScrutiNews:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w2CxDu7jiyE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### 4. Launch an ICO (Initial Coin Offering)
 The purpose of the ICO, as described in [Section 8.1](https://github.com/ScrutiNews/proposal/blob/master/business-considerations.md#81-funding-and-proposed-ico) of the main proposal, will be to create the cryptocurrency micro-payments token as the currency used to generate revenews and reward 'Scrutineers', the people using the platform to filter and scrutinise news feeds. The ICO will also provide for an allocation of funds to reward those who have been contributing and building the platform, according to their share of tokens accumulated with the Project Rewards Tool (1) above.
 
-### 4. Launch the full product covering mass media topic
+### 5. Launch the full product covering mass media topic
 Moving from the prototype to a product with mainstream appeal will require continual refinement and product maturation. This will require continual product tweaking, community building and plenty of patience. It will also require testing and fine tuning of the business model to ensure that the mainstream product is commercially viable. 
 
-### 5. Curated news broadcasts via YouTube/Podcasts
+### 6. Curated news broadcasts via YouTube/Podcasts
 People want their daily news delivered in accessible chunks, easy to navigate, filtered and scrutinised to assess truthfulness and reliability. This needs to be well presented, engaging and enlightening. The aim will be for people get their news from our curated video/podcasts rather than through traditional mainstream news channels. Put simply, the goal is to 'Tell the Truth'... 
 
 ## Thoughts, unknowns, and questions about this project:
