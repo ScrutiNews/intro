@@ -33,7 +33,7 @@ This whole project rests on developing tools and knowledge for objectively scrut
 
 [<img src="DonaldTrumpLogicalFallacies.jpg">](https://www.youtube.com/watch?v=w2CxDu7jiyE "Donald Trump: 15 Logical fallacies in 3 minutes")
 
-The above video, showing Donald Trump using 15 logical fallacies in 3 minutes of speech, is a good intro to the desired analysis on ScrutiNews.
+The above video, by [TeachArgument](http://teachargument.com), showing Donald Trump using 15 logical fallacies in 3 minutes of speech, is a good intro to the desired analysis on ScrutiNews.
 
 ### 4. Launch an ICO (Initial Coin Offering)
 The purpose of the ICO, as described in [Section 8.1](https://github.com/ScrutiNews/proposal/blob/master/business-considerations.md#81-funding-and-proposed-ico) of the main proposal, will be to create the cryptocurrency micro-payments token as the currency used to generate revenues and reward 'Scrutineers', the people using the platform to filter and scrutinise news feeds. The ICO will also provide for an allocation of funds to reward those who have been contributing and building the platform, according to their share of tokens accumulated with the Project Rewards Tool (1) above.
