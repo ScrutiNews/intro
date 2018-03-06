@@ -25,6 +25,8 @@ The basic idea behind ScrutiNews is to encourage those people who take great int
 ### 1. Build a Project Rewards Tool
 A mini open source project using an token on the [Ethereum Blockchain Platform](https://www.ethereum.org/) to track people's input into the main project. This will be a chance for developers to work and play with Ethereum and get used to working with Smart Contracts. The idea is that as people contribute to the main project, they will issue invoices for their work and be paid in tokens, creating a secure, transparent and immutable record of inputs on the Ethereum Blockchain. The tokens could be traded for future 'shares' in the main project. See [Project Rewards Tool](https://github.com/ScrutiNews/proposal/blob/master/appendix-I-project-rewards-tool.md). 
 
+*Completing this first mini-project will be a worthy acheivement, it could be a viable product in its own right, and potentially the launch pad to a host of other projects.*
+
 ### 2. Build a cryptocurrency news aggregator as a prototype
 Build the main platform, as defined in the [Proposal](https://github.com/ScrutiNews/proposal/blob/master/README.md). Contributions will be recorded using the Project Rewards Tool mentioned in (1). Further detail is in [Section 3.3](https://github.com/ScrutiNews/proposal/blob/master/project-description.md#33-cryptoassets---initial-use-case-for-the-scrutinews-platform) of the proposal. The challenge here will be co-ordinating a collaborative development team, project definition and management etc. 
 
